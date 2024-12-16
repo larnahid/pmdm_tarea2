@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:startDestination="@id/mainFragment">
+
+
+    <fragment
+        android:id="@+id/mainFragment"
+        android:name="dam.pmdmtarea2_ln.GameListFragment"
+        android:label="Main Fragment" >
+
+        <!-- Agrega aquí las acciones y destinos que se pueden realizar desde el MainFragment si es necesario -->
+
+    </fragment>
+
+    <!-- Definición del GameDetailFragment -->
+    <fragment
+        android:id="@+id/gameDetailFragment"
+        android:name="dam.pmdmtarea2_ln.GameDetailFragment"
+        android:label="Game Detail Fragment" />
+</navigation>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">Super Mario APP</string>
+    <string name="lista_de_juegos" translatable="false">Characters</string>
+    <string name="detalles_del_juego" translatable="false">Characters Detail</string>
+    <string name="menu_about" translatable="false">About..</string>
+    <string name="about_message" translatable="false">Application developed by Nahid Larhziale</string>
+    <string name="nav_home">Navigate</string>
+</resources>
